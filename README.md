@@ -9,9 +9,9 @@ info.predator.os@gmail.com
 
 <img src="https://github.com/hosseinseilani/predator-os/blob/main/offensiveMode.PNG">
 
-# Best available programming softwares and tools
+
  
- specifications:
+# specifications:
 		OS Type: Linux
 		Based on: ubuntu Mini 20.04 LTS 
 		Kernel : 5.10 LTS
@@ -34,4 +34,5 @@ info.predator.os@gmail.com
 
 # It is a special linux OS:
  he Predator-OS has 6 different modes and operates at the following modes for easy and faster access to all tools, and also it is possible to change Linux Predator at :defensive, offensive, privacy, hardened, secured,settings  and pentesting modes quickly.
-<img src="https://github.com/hosseinseilani/emperor-os/blob/master/screenshots/login%20window.PNG">
+ 
+<img src="https://github.com/hosseinseilani/predator-os/blob/main/settings.PNG">
