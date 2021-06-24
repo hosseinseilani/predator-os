@@ -30,7 +30,7 @@ info.predator.os@gmail.com
 			50 GB of hard disk space, SSD preferred
 			At least 2048 MB of RAM
  
-<img src="https://github.com/hosseinseilani/predator-os/blob/main/offensiveMode.PNG">
+<img src="https://github.com/hosseinseilani/predator-os/blob/main/DefensiveMode.jpg">
 
 # It is a special linux OS:
  he Predator-OS has 6 different modes and operates at the following modes for easy and faster access to all tools, and also it is possible to change Linux Predator at :defensive, offensive, privacy, hardened, secured,settings  and pentesting modes quickly.
