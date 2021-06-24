@@ -1,4 +1,4 @@
-# predato-os
+# Predato-os
 [site link](http://predator-os.com/)
 
 Established in 2021, by Hossein Seilany who has focused on developing for penetration testing and ethical hacking and also privacy, hardened, secure, anonymized Linux distro.
@@ -11,7 +11,7 @@ info.predator.os@gmail.com
 
 
  
-# specifications:
+# Specifications:
 		OS Type: Linux
 		Based on: ubuntu Mini 20.04 LTS 
 		Kernel : 5.10 LTS
