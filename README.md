@@ -17,19 +17,19 @@ info.predator.os@gmail.com
 		Based on: ubuntu Mini 20.04 LTS 
 		Kernel : 5.10 LTS
 		Origin: Emperor-os.com  Team 
-			Architecture: armhf, i686, powerpc, ppc64el, s390x, x86_64 
-			Defualt Desktop: Xfce
-			Other Desktop:comming soon : KDE plasma, mate
-			Category: penetration testing,security, privacy, Forensics, Live Medium, hardened,anonymized
-		 Predator Linux requires:
-			A minimum of 50 GB hard disk space for installation.
-			A minimum of 2GB RAM for i386 and AMD64 architectures.
+		Architecture: armhf, i686, powerpc, ppc64el, s390x, x86_64 
+		Defualt Desktop: Xfce
+		Other Desktop:comming soon : KDE plasma, mate
+		Category: penetration testing,security, privacy, Forensics, Live Medium, hardened,anonymized
+		Predator Linux requires:
+		A minimum of 50 GB hard disk space for installation.
+		A minimum of 2GB RAM for i386 and AMD64 architectures.
 		A bootable CD-DVD drive or a USB stick.
-			A minimum of an Intel Core i3 or an AMD E1 processor
+		A minimum of an Intel Core i3 or an AMD E1 processor
 		for good performance.
 		The recommended hardware specification for a smooth experience is:
-			50 GB of hard disk space, SSD preferred
-			At least 2048 MB of RAM
+		50 GB of hard disk space, SSD preferred
+		At least 2048 MB of RAM
  
 <img src="https://github.com/hosseinseilani/predator-os/blob/main/DefensiveMode.jpg">
 
