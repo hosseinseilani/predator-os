@@ -6,7 +6,8 @@ Predator Linux is based on Ubuntu 20.04 LTS  Mini, kernel 5.10 LTS, and using a 
 If you have any questions and problems in Emperor-OS, please e-mail us at:
 info.predator.os@gmail.com
 
-<img src="https://github.com/hosseinseilani/emperor-os/blob/master/screenshots/11.jpg">
+
+<img src="https://github.com/hosseinseilani/predator-os/blob/main/offensiveMode.PNG">
 
 # Best available programming softwares and tools
  
