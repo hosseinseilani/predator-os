@@ -41,4 +41,4 @@ info.predator.os@gmail.com
 
 # Supported By:
   
-<img src="https://github.com/hosseinseilani/predator-os/blob/main/team.jpg">
+<img src="https://github.com/hosseinseilani/predator-os/blob/main/Supported%20Team.jpg">
