@@ -1,4 +1,5 @@
 # Predato-os
+<img src="https://github.com/hosseinseilani/predator-os/blob/main/banner.png">
 [site link](http://predator-os.com/)
 
 Established in 2021, by Hossein Seilany who has focused on developing for penetration testing and ethical hacking and also privacy, hardened, secure, anonymized Linux distro.
