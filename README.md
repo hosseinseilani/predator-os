@@ -2,8 +2,12 @@
 <img src="https://github.com/hosseinseilani/predator-os/blob/main/banner.png">
 [site link](http://predator-os.com/)
 
-Established in 2021, by Hossein Seilany who has focused on developing for penetration testing and ethical hacking and also privacy, hardened, secure, anonymized Linux distro.
-Predator Linux is based on Ubuntu 20.04 LTS  Mini, kernel 5.10 LTS, and using a fully customized xfce4 lightweight desktop with a special menu of tools.Predator Linux has around 1300 pre-installed tools which are split into 30 several categories. Predator Tools are imported from both Debian and Ubuntu repositories and GitHub page. Most kernel and user configs are customized by default to prevent any hacking, non-privileged access and reduce the attack surface. many built-in firewalls and defensive tools allow end-users to control the Predator-OS. Predator also supports much privacy, anonymized, security tools, and also both it to be run as Live-CD or from a USB Drive and installation mode.
+Established in 2021, by Hossein Seilany. Predator is a multi-faceted security framework for auditing, forensic first-responders and pentesters.  The different modes included allow for adaptation to environment and mission parameters. Discretionary presence and posture is tunable to affect an agile response to operational situation.
+
+Predator Linux is based on Ubuntu 20.04 LTS  Mini, kernel 5.10 LTS, and using a fully customized xfce4 lightweight desktop with a special menu of tools.Predator Linux has around 1300 pre-installed tools which are split into 30 several categories.
+Predator Tools are imported from both Debian and Ubuntu repositories and GitHub page. Most kernel and user configs are customized by default to prevent any hacking, non-privileged access and reduce the attack surface.
+many built-in firewalls and defensive tools allow end-users to control the Predator-OS. Predator also supports much privacy, anonymized, security tools, and also both it to be run as Live-CD or from a USB Drive and installation mode.
+
 Hopefully, This OS can be beneficial for all normal and more refined users.
 for any suggestions or recommended contact:
 info.predator.os@gmail.com
