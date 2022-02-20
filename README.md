@@ -1,4 +1,4 @@
-# Predato-os
+# Predator-OS
 <img src="https://github.com/hosseinseilani/predator-os/blob/main/banner.png">
 [site link](http://predator-os.com/)
 
