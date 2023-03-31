@@ -1,6 +1,6 @@
 # Predator-OS
 <img src="https://github.com/hosseinseilani/predator-os/blob/main/banner.png">
-[site link](http://predator-os.com/)
+[site link](http://predator-os.ir/)
 
 Established in 2021, by Hossein Seilany. Predator is a multi-faceted security framework for auditing, forensic first-responders and pentesters.  The different modes included allow for adaptation to environment and mission parameters. Discretionary presence and posture is tunable to affect an agile response to operational situation.
 
@@ -21,7 +21,7 @@ info.predator.os@gmail.com
 		OS Type: Linux
 		Based on: ubuntu Mini 20.04 LTS 
 		Kernel : 5.10 LTS
-		Origin: Emperor-os.com  Team 
+		Origin: Emperor-os.ir  Team (Iran)
 		Architecture: armhf, i686, powerpc, ppc64el, s390x, x86_64 
 		Defualt Desktop: Xfce
 		Other Desktop:comming soon : KDE plasma, mate
