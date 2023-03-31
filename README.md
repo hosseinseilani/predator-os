@@ -38,7 +38,7 @@ info.predator.os@gmail.com
  
 <img src="https://github.com/hosseinseilani/predator-os/blob/main/DefensiveMode.jpg">
 
-# It is a special linux OS:
+#Polymorphic Security Platform:
  he Predator-OS has 6 different modes and operates at the following modes for easy and faster access to all tools, and also it is possible to change Linux Predator at :defensive, offensive, privacy, hardened, secured,settings  and pentesting modes quickly.
  
 <img src="https://github.com/hosseinseilani/predator-os/blob/main/AllModes.jpg">
