@@ -44,7 +44,7 @@ info.predator.os@gmail.com
 <img src="https://github.com/hosseinseilani/predator-os/blob/main/AllModes.jpg">
 
 
-# Host and Domain Supported By:
+ # Host and Domain sponsored By:
   
 <img src="https://github.com/hosseinseilani/predator-os/blob/main/logo_square.png">
 Providing Linux hosting services, selling SSL certificates, registering and transferring domains and hosting.
