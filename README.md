@@ -46,7 +46,7 @@ info.predator.os@gmail.com
 
 # Host and Domain Supported By:
   
-<img src=" https://www.netafraz.com/images/logo_square.png">
+<img src="https://github.com/hosseinseilani/predator-os/blob/main/logo_square.png">
 Providing Linux hosting services, selling SSL certificates, registering and transferring domains and hosting.
  [site link](https://www.netafraz.com)
  
