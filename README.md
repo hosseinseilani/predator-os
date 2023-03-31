@@ -1,7 +1,7 @@
 # Predator-OS Linux
-# ** Polymorphic Security Platform**
-##A security-centric free open-source Linux 
-###Penetration testing and Ethical hacking and also you can use it as: privacy, hardened, secure, anonymized
+##  Polymorphic Security Platform
+## A security-centric free open-source Linux 
+### Penetration testing and Ethical hacking and also you can use it as: privacy, hardened, secure, anonymized
 
 
 <img src="https://github.com/hosseinseilani/predator-os/blob/main/banner.png">
@@ -48,7 +48,7 @@ info.predator.os@gmail.com
  
 <img src="https://github.com/hosseinseilani/predator-os/blob/main/AllModes.jpg">
 
-#Top Features:
+# Top Features:
 1)	Included to more than 2 TB password list.
 2)	Included to more than 500 lists of the red and blue team tools.
 3)	Included to more than 200 lists of AWS-cloud tools.
@@ -65,10 +65,10 @@ info.predator.os@gmail.com
 14)	Included to 600 forensic and reverse engineering tools.
 15)	Included to more than 6000 Google dorks and exploits as offline
 
-#Improving performance and tuned kernel and user levels:
+# Improving performance and tuned kernel and user levels:
 1) In order to improve the performance of the CPU frequency range has been changed intel_pstate to acpi-cpufreq by default.
 2) The BIOS frequency limitation has been disabled by default in order to improve the performance of the CPU frequency range, 
-3)In order to improve the performance of the hard disk and boot time, the watchdog has been disabled by default.
+3) In order to improve the performance of the hard disk and boot time, the watchdog has been disabled by default.
 4) Improving the performance of the hard disk by changing the I/O scheduler for SATA, HDD, and NVMe disks.
 5) Improved CPU performance by changing the default kernel scheduler to a Linux-zen kernel.
 6) Improving network and Internet performance by changing the Bottleneck Bandwidth and Round-trip propagation time (BBR).
@@ -81,7 +81,7 @@ info.predator.os@gmail.com
 13) Reducing kernel log-level reports to a low level in order to improve kernel performance and increase security and create silent boot mode.
 14) and also, improving TCP performance, increasing inode cache memory, disk cache, improving network and bandwidth parameters, etc.
 
-#The predator-OS Linux has its own unique features, which you can see 100 features on the site, and it also has features compared to security distributions, including:
+# The predator-OS Linux has its own unique features, which you can see 100 features on the site, and it also has features compared to security distributions, including:
 
 1) Easy installation and better hardware support than Kali distribution 
 2) Suitable for newbies users and useful for general work compared to Parrot and Kali distribution 
