@@ -8,7 +8,7 @@
 [site link](http://predator-os.ir/)
 
 
-Established in 2021, by Hossein Seilany. Predator is a multi-faceted security framework for auditing, forensic first-responders and pentesters.  The different modes included allow for adaptation to environment and mission parameters. Discretionary presence and posture is tunable to affect an agile response to operational situation.
+Established in 2021 by Hossein Seilany, it is a polymorphic security platform for pen-testing and ethical hacking. It is also hardened, secure, anonymous, and privacy-focused.
 
 Predator Linux is based on Ubuntu 20.04 LTS  Mini, kernel 5.10 LTS, and using a fully customized xfce4 lightweight desktop with a special menu of tools.Predator Linux has around 1300 pre-installed tools which are split into 30 several categories.
 Predator Tools are imported from both Debian and Ubuntu repositories and GitHub page. Most kernel and user configs are customized by default to prevent any hacking, non-privileged access and reduce the attack surface.
