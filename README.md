@@ -10,7 +10,7 @@
 
 Established in 2021 by Hossein Seilany, it is a polymorphic security platform for pen-testing and ethical hacking. It is also hardened, secure, anonymous, and privacy-focused.
 
-Predator Linux is based on Ubuntu 20.04 LTS  Mini, kernel 6.7 LTS, and uses a fully customized xfce4 lightweight desktop with (LTS and Rolling) released. It has a special menu of tools. Predator-os Linux has around 1200 pre-installed tools which is split into 30 several categories.
+Predator Linux is based on Ubuntu 20.04 LTS  Mini, kernel 6.1 LTS, and uses a fully customized xfce4 lightweight desktop with (LTS and Rolling) released. It has a special menu of tools. Predator-os Linux has around 1200 pre-installed tools which is split into 30 several categories.
 Predator Tools are imported from both Debian and Ubuntu repositories and the GitHub page. Most kernel and user configs are customized by default to prevent any hacking, or non-privileged access and reduce the attack surface.
 many built-in firewalls and defensive tools allow end-users to control the Predator-OS. Predator also supports many privacy, anonymized, security tools, and also both to be run as Live-CD or from a USB Drive and installation mode.
 
