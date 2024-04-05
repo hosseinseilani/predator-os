@@ -10,7 +10,7 @@
 
 Established in 2021 by Hossein Seilany, it is a polymorphic security platform for pen-testing and ethical hacking. It is also hardened, secure, anonymous, and privacy-focused.
 
-Predator Linux is based on Ubuntu 20.04 LTS  Mini, kernel 6.1 LTS, and uses a fully customized xfce4 lightweight desktop with (LTS and Rolling) released. It has a special menu of tools. Predator-os Linux has around 1200 pre-installed tools which is split into 30 several categories.
+Predator Linux is based on Debian stable, kernel 6.1 and 6.6 LTS, and uses a fully customized Plasma lightweight desktop with released. It has a special menu of tools. Predator-os Linux has around 1200 pre-installed tools which is split into 40 several categories in 9 security modes.
 Predator Tools are imported from both Debian and Ubuntu repositories and the GitHub page. Most kernel and user configs are customized by default to prevent any hacking, or non-privileged access and reduce the attack surface.
 many built-in firewalls and defensive tools allow end-users to control the Predator-OS. Predator also supports many privacy, anonymized, security tools, and also both to be run as Live-CD or from a USB Drive and installation mode.
 
@@ -24,27 +24,27 @@ info.predator.os@gmail.com
  
 # Specifications:
 		OS Type: Linux
-		Based on: ubuntu Mini 20.04 LTS 
-		Kernel: 5.10 LTS
+		Based on: Debian stable 
+		Kernel: 6.1 and 6.6 LTS
 		Origin: Emperor-os.ir  Team (Iran)
-		Architecture: armhf, i686, PowerPC, ppc64el, s390x, x86_64 
-		Default Desktop: Xfce
-		Other Desktop: coming soon : KDE plasma, mate
+		Architecture: x86_64 
+		Default Desktop: Plasma
+		Other Desktop: coming soon : Gnome, xfce, mate
 		Category: penetration testing, security, privacy, Forensics, Live Medium, hardened, anonymized
 		Predator Linux requires:
-		A minimum of 50 GB hard disk space for installation.
+		A minimum of 20 GB hard disk space for installation.
 		A minimum of 2GB RAM for i386 and AMD64 architectures.
 		A bootable CD-DVD drive or a USB stick.
 		A minimum of an Intel Core i3 or an AMD E1 processor
 		for good performance.
 		The recommended hardware specification for a smooth experience is:
-		50 GB of hard disk space, SSD preferred
+		20 GB of hard disk space, SSD preferred
 		At least 2048 MB of RAM
  
 <img src="https://github.com/hosseinseilani/predator-os/blob/main/DefensiveMode.jpg">
 
 #Polymorphic Security Platform:
- The Predator-OS has 6 different modes and operates at the following modes for easy and faster access to all tools, and also it is possible to change Linux Predator to: defensive, offensive, privacy, hardened, secured, settings, and pen-testing modes quickly.
+ The Predator-OS has 9 different modes and operates at the following modes for easy and faster access to all tools, and also it is possible to change Linux Predator to: defensive, offensive, privacy, hardened, secured, settings, and pen-testing modes quickly.
  
 <img src="https://github.com/hosseinseilani/predator-os/blob/main/AllModes.jpg">
 
@@ -131,8 +131,14 @@ info.predator.os@gmail.com
 26) Includes many tools from the following site: insecure.org.
 
 <img src="https://github.com/hosseinseilani/predator-os/blob/main/banner.png">
-[site link](http://predator-os.ir/)
+[Download link](http://predator-os.ir/)
 
+# Donate inside Iran:
+https://zarinp.al/learninghive.ir
+
+# Donate outside Iran:
+<img src="https://github.com/hosseinseilani/little-psycho/blob/main/ethereum.JPG">
+0xd15e9222ee44349DabFae6F61dD7382617e7A563
 
  # Host and Domain Sponsored By:
   
