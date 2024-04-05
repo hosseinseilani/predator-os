@@ -132,6 +132,9 @@ info.predator.os@gmail.com
 
 <img src="https://github.com/hosseinseilani/predator-os/blob/main/banner.png">
 [Download link](http://predator-os.ir/)
+## Default username and password for all iso files: 
+Username= predator
+Password = predator
 
 # Donate inside Iran:
 https://zarinp.al/learninghive.ir
