@@ -1,5 +1,5 @@
 predator-os Complete Tools List
-** admin **	rkhunter	1.4.6-12	all	Description: rootkit	 backdoor
+## admin rkhunter	1.4.6-12	all	Description: rootkit	 backdoor
 admin	accountsservice	23.13.9-6	amd64	Description: query and manipulate user account information	https://www.tldp.org/LDP/abs/html/
 admin	acct	6.6.4-5+b2	amd64	Description: GNU Accounting utilities for process and login accounting	https://invent.kde.org/pim/kmail-account-wizard
 admin	adcli	0.9.2-1	amd64	Description: Tool for performing actions on an Active Directory domain	https://developer.android.com/studio/releases/platform-tools
