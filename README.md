@@ -11,10 +11,9 @@
 Established in 2021 by Hossein Seilany, it is a polymorphic security platform for pen-testing and ethical hacking. It is also hardened, secure, anonymous, and privacy-focused.
 
 Predator Linux is based on Debian stable, kernel 6.1 and 6.6 LTS, and uses a fully customized Plasma lightweight desktop with released. It has a special menu of tools. Predator-os Linux has around 1200 pre-installed tools which is split into 40 several categories in 9 security modes.
-Predator Tools are imported from both Debian and Ubuntu repositories and the GitHub page. Most kernel and user configs are customized by default to prevent any hacking, or non-privileged access and reduce the attack surface.
-many built-in firewalls and defensive tools allow end-users to control the Predator-OS. Predator also supports many privacy, anonymized, security tools, and also both to be run as Live-CD or from a USB Drive and installation mode.
+Predator Tools are imported from Debian and Ubuntu repositories and the GitHub page. By default, most kernel and user configs are customized to prevent hacking or non-privileged access and reduce the attack surface.
+many built-in firewalls and defensive tools allow end-users to control the Predator OS. Predator also supports many privacy, anonymized, security tools, and also both to be run as Live-CD or from a USB Drive and installation mode.
 
-Hopefully, This OS can be beneficial for all normal and more refined users.
 for any suggestions or recommended contact:
 info.predator.os@gmail.com
 
@@ -25,13 +24,12 @@ info.predator.os@gmail.com
 # Specifications:
 		OS Type: Linux
 		Based on: Debian stable 
-		Kernel: 6.1 and 6.6 LTS
+		Kernel: 6.6 LTS
 		Origin: Emperor-os.ir  Team (Iran)
 		Architecture: x86_64 
-		Default Desktop: Plasma
-		Other Desktop: coming soon : Gnome, xfce, mate
+		Default Desktop: Plasma, other Desktop(mate+lxde) (plasma + lxqt) (NoDesktop)
 		Category: penetration testing, security, privacy, Forensics, Live Medium, hardened, anonymized
-		Predator Linux requires:
+		Predator-os Linux requires:
 		A minimum of 20 GB hard disk space for installation.
 		A minimum of 2GB RAM for i386 and AMD64 architectures.
 		A bootable CD-DVD drive or a USB stick.
@@ -86,22 +84,22 @@ info.predator.os@gmail.com
 18)	Included in 600 forensic and reverse engineering tools.
 19)	Included in more than 6000 Google dorks and exploits as offline resources.
 # more features 
-1) In order to improve the performance of the CPU frequency range has been changed intel_pstate to acpi-cpufreq by default.
-2) The BIOS frequency limitation has been disabled by default in order to improve the performance of the CPU frequency range, 
-3) In order to improve the performance of the hard disk and boot time, the watchdog has been disabled by default.
+1) To improve the performance of the CPU frequency range has been changed intel_pstate to acpi-cpufreq by default.
+2) The BIOS frequency limitation has been disabled by default to improve the performance of the CPU frequency range, 
+3) To improve the performance of the hard disk and boot time, the watchdog has been disabled by default.
 4) Improving the performance of the hard disk by changing the I/O scheduler for SATA, HDD, and NVMe disks.
 5) Improved CPU performance by changing the default kernel scheduler to a Linux-zen kernel.
 6) Improving network and Internet performance by changing the Bottleneck Bandwidth and Round-trip propagation time (BBR).
-7) Improved RAM memory function by changing the randomize_va_space status.
+7) Improved RAM function by changing the randomize_va_space status.
 8) Improved virtual memory performance by replacing zswap instead of swap by default.
 9) The hardware threads (physical CPU) for each CPU core have been enabled.
 10) Improving the paralleling of tasks by allowing independent tasks (running threads) by sharing some processor resources.
-11) Changed power saving mode to performance mode by default, In order to improve the performance of the disk and network IO.
-12) All CPU governor frequency has switched in performance.
-13) Reducing kernel log-level reports to a low level in order to improve kernel performance increase security and create silent boot mode.
+11) Changed power saving mode to performance mode by default, To improve the performance of the disk and network IO.
+12) All CPU governor frequencies have switched in performance.
+13) Reducing kernel log-level reports to a low level to improve kernel performance increase security and create silent boot mode.
 14) and also, improving TCP performance, increasing inode cache memory, disk cache, improving network and bandwidth parameters, etc.
 
-# The predator-OS Linux has its own unique features, which you can see 100 features on the site, and it also has features compared to security distributions, including:
+# The predator-OS Linux has its unique features, which you can see 100 features on the site, and it also has features compared to security distributions, including:
 
 1) Includes many boot grub parameters both in live and after installation.
 2) Disables many unnecessary services and loggers during the boot-up.
@@ -114,13 +112,13 @@ info.predator.os@gmail.com
 9) Suitable for newbie users and useful for general work compared to Parrot and Kali distribution.
 10) Includes the best privacy, hardening, anonymous configuration, and tools.
 11) Offers a lighter and smaller download file size, despite having more tools than BlackArch, Tsurugi Linux, and dracOS Linux distributions.
-12) Has the ability to boot both in live mode and for installation, unlike deft, Discreete Linux, despite having all the tools of that distribution.
-13) Includes the feature of booting in safe mode, text-mode, Noacpi, Iommu, forensic mode, and having CLI tools like the dracOS distribution that lacks graphical tools.
+12) Can boot both in live mode and for installation, unlike deft, Discreete Linux, despite having all the tools of that distribution.
+13) Includes the feature of booting in safe mode, text mode, Noacpi, Iommu, forensic mode, and having CLI tools like the dracOS distribution that lacks graphical tools.
 14) Includes all Bugtraq Linux tools.
 15) Includes more web penetration testing tools than Samurai Linux.
 16) Includes more tools than BackBox Linux.
 17) Includes all Pentoo Linux tools.
-18) Includes specialized PC crime detection tools and also the ability to run Windows tools in Linux, such as deft and CAINE Linux.
+18) It includes specialized PC crime detection tools and the ability to run Windows tools, such as deft and CAINE Linux, in Linux.
 19) Includes Kodachi Linux features in the field of privacy and anonymity.
 20) Includes secure and privacy features of Discreete Linux.
 21) Includes all Santoku Linux tools in the field of Mobile pen-testing.
@@ -133,8 +131,8 @@ info.predator.os@gmail.com
 <img src="https://github.com/hosseinseilani/predator-os/blob/main/banner.png">
 [Download link](http://predator-os.ir/)
 ## Default username and password for all iso files: 
-Username= predator
-Password = predator
+Username= user
+Password = user
 
 # Donate inside Iran:
 https://zarinp.al/learninghive.ir
