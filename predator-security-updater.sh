@@ -1,1 +1,4 @@
-sudo apt update
+echo "seccurity edit"
+
+
+ls
